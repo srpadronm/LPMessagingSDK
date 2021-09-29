@@ -1,0 +1,2 @@
+#!/bin/sh
+cp -R "${BUILD_DIR%Build/*}/SourcePackages/checkouts/LPMessagingSDK/Sources/LPMessagingSDK/LPMessagingSDKModels.bundle" "${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.app"
